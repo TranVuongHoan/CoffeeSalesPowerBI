@@ -60,6 +60,6 @@ During the examination, I identified the following potential data quality issues
 
 ---
 
-![Data](data_coffee_sales.png)
+![Data](image/data_coffee_sales.png)
 
 This document provides an overview of the data preparation and analysis process, including the steps taken to transform the data, identified quality issues, and the next steps in the project.
