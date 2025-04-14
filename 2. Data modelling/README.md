@@ -91,4 +91,4 @@ The SQL script for data loading can also be found here: [`db_creation_coffee_sal
 
 The following **Entity-Relationship Diagram (ERD)** visually represents the star schema structure, providing a clear overview of the database architecture and the relationships between entities.
 
-![ERD Diagram](image/model_coffee_sales) <!-- Replace with the actual path to your ERD image -->
+![ERD Diagram](image/model_coffee_sales.png) <!-- Replace with the actual path to your ERD image -->
