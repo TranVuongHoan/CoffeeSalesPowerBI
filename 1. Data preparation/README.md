@@ -60,4 +60,6 @@ During the examination, I identified the following potential data quality issues
 
 ---
 
+![Project Logo](/assets/logo.png)
+
 This document provides an overview of the data preparation and analysis process, including the steps taken to transform the data, identified quality issues, and the next steps in the project.
