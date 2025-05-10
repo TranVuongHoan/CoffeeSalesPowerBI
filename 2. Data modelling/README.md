@@ -57,33 +57,17 @@ Each dimension table has a **many-to-one relationship** with the fact table, mea
 
 ---
 
-## Database and Tables Creation
-
-I designed and implemented the database in **MySQL**, where I created each table (fact and dimension) based on the schema defined above. The creation process involved:
-
-1. **Defining the Tables**:  
-   - Used SQL scripts to create the `Fact_Sales`, `Dim_Product`, `Dim_Store`, `Dim_Type`, `Dim_Category`, `Dim_Date`, and `Dim_Time` tables.  
-   - Specified the appropriate data types and constraints (e.g., primary keys, foreign keys, `NOT NULL`).
-
-2. **Establishing Relationships**:  
-   - Set up foreign key constraints to enforce referential integrity between the fact and dimension tables.
-
-The SQL script used for this process is available here: [`db_creation_coffee_sales.sql`](db_creation_coffee_sales.sql).
-
----
 
 ## Data Loading
 
 Once the tables were created, I proceeded to load the data into the database.
 
 1. **Data Import**:  
-   - Imported the raw data (transformed during the **Data Preparation** phase) into the MySQL database using SQL commands.  
    - Ensured the data was correctly mapped to the corresponding columns in the tables.
 
 2. **Data Integrity**:  
    - For columns with empty string records (identified during the **Data Preparation** phase), I converted those to `NULL` values to accurately represent missing data.
 
-The SQL script for data loading can also be found here: [`db_creation_coffee_sales.sql`](db_creation_coffee_sales.sql).
 
 ---
 
