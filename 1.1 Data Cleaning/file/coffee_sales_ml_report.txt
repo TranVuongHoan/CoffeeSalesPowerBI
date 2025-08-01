@@ -1,0 +1,35 @@
+Coffee Sales Advanced Analytics Report
+========================================
+
+Model Performance:
+Random Forest:
+  R² Score: 1.000
+  RMSE: $0.00
+  MAE: $0.00
+
+Gradient Boosting:
+  R² Score: 1.000
+  RMSE: $0.01
+  MAE: $0.00
+
+Linear Regression:
+  R² Score: 0.953
+  RMSE: $0.43
+  MAE: $0.30
+
+Ridge Regression:
+  R² Score: 0.953
+  RMSE: $0.43
+  MAE: $0.30
+
+Lasso Regression:
+  R² Score: 0.945
+  RMSE: $0.46
+  MAE: $0.32
+
+Files Created:
+- sales_predictions.csv (Individual predictions)
+- customer_segments.csv (Customer segmentation)
+- high_value_transactions.csv (High-value transactions)
+- sales_feature_importance.png (Feature importance plot)
+- customer_segments.png (Customer segmentation visualization)

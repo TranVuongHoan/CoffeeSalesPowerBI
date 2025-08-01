@@ -1,0 +1,6 @@
+product_category,TransactionCount,TotalSales,AvgSale,TotalQuantity,AvgUnitPrice,UniqueProducts,CategoryShare
+Bakery,22781,82231.19,3.61,23199,3.55,11,13.07
+Coffee,58414,269918.45,4.62,89242,3.02,21,42.89
+Drinking Chocolate,11468,72416.0,6.31,17457,4.15,4,11.51
+Flavours,6771,8348.0,1.23,10435,0.8,4,1.33
+Tea,45449,196405.95,4.32,69737,2.82,16,31.21
