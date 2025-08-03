@@ -162,7 +162,13 @@
 ### 👥 Sales Teams
 - Top Managers (by revenue)  
 - Best & Worst Agents  
-- Regional Office Performance  
+- Regional Office Performance
+
+---
+![Data](image/coffeedashboard1.png)
+![Data](image/coffeedashboard2.png)
+
+
 - Detailed Metrics by Manager/Agent
 - 🎯 **Promotional Impact Analysis**  
 - 📦 **Inventory Optimization**
