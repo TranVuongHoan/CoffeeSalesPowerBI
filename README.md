@@ -5,11 +5,12 @@
 ---
 
 ## 📁 Table of Contents
-- [🔧 Data Preparation and Analysis](#-data-preparation-and-analysis)  
-- [🧱 Data Modeling](#-data-modeling)  
-- [📈 Sales Data Analysis](#-sales-data-analysis)  
-- [📋 Report Creation](#-report-creation)  
-- [🚀 Future Work](#-future-work)
+- 🔧 Data Preparation and Analysis
+- 🔍 Data Cleaning
+- 🔀 Data Extraction and Transformation
+- 🧱 Data Modeling
+- 📈 Sales Data Analysis  
+- 📋 Report Creation 
 
 ---
 
@@ -163,12 +164,10 @@
 - Top Managers (by revenue)  
 - Best & Worst Agents  
 - Regional Office Performance
+- Detailed Metrics by Manager/Agent
+- 🎯 **Promotional Impact Analysis**  
+- 📦 **Inventory Optimization**
 
 ---
 ![Data](image/coffeedashboard1.png)
 ![Data](image/coffeedashboard2.png)
-
-
-- Detailed Metrics by Manager/Agent
-- 🎯 **Promotional Impact Analysis**  
-- 📦 **Inventory Optimization**
